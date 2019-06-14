@@ -1,8 +1,8 @@
-using System;
+using euler._1;
 using FluentAssertions;
 using Xunit;
 
-namespace euler.tests
+namespace euler.tests._1
 {
     public class MultiplesOf3And5CalculatorTests
     {

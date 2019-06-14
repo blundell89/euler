@@ -1,4 +1,4 @@
-﻿namespace euler
+﻿namespace euler._1
 {
     public class MultiplesOf3And5Calculator
     {
